@@ -1,2 +1,0 @@
-# cartel
-GitHub Pages
