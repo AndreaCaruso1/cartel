@@ -2448,13 +2448,13 @@
               "color": "#232323"
             },
             ".body-item B": {
-              "color": "#ff7f9f"
+              "color": "#ff3366"
             },
             ".head-item SPAN": {
               "color": "#ff7f9f"
             },
             ".mbr-section-subtitle B": {
-              "color": "#ff7f9f"
+              "color": "#ffffff"
             }
           },
           "_name": "table1",
